@@ -23,5 +23,5 @@ SCU Bilgisayar Mühendisliği, Ahmet Utku ELİK
 
 
 
-# ESP32 UWB Pro Tag - Server Communication Architecture
+# ESP32 UWB Pro Tag - RP4 LAMP Server Communication Architecture
 ![image](https://github.com/Rexoes/Indoor-Positioning-with-UWB/assets/93407264/2a7bf9f1-9dc7-4370-ba04-d979ff77e162)
